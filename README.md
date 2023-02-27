@@ -26,7 +26,7 @@ and 'haarcascade_frontalface_default.xml' and 'MaskNet1.hdf5' in same directory
 The procedure for detailed training and testing of detector
 
 download datasets from this link
-https://drive.google.com/drive/folders/11hxl9v3WMEPiiygwYFWHHp4UwpzctHf3?usp=sharing
+https://drive.google.com/drive/folders/11xwXfwGulD95IYw81ILCT9V3TWQnnvqL?usp=sharing
 
 //Creating and training the model
 
